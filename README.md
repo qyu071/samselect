@@ -2,7 +2,7 @@
 Solver for sample sequence selection from large DNA datasets for quorum planted motif search
 
 
-# Source Code Usage
+# source code usage
 ./my_sam [input file] [options]
 
 [input file] the original data file
